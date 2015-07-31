@@ -112,7 +112,7 @@ class Auth extends CI_Controller {
 	{
 		$this->data['title'] = "Register";
 
-		if ($this->ion_auth->logged_in())
+		if ($this->ion_auth->logged_in() || !$this->config->item('allow_register','ion_auth'))
 		{
 			// redirect them to index page if the user is logged in
 			redirect('/', 'refresh');
