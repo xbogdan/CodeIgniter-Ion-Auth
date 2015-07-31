@@ -68,6 +68,25 @@ $lang['create_user_validation_company_label']          = 'Companie';
 $lang['create_user_validation_password_label']         = 'Parolă';
 $lang['create_user_validation_password_confirm_label'] = 'Confirmarea parolei';
 
+// Register User
+$lang['register_user_heading']                           = 'Înregistrează-te';
+$lang['register_user_subheading']                        = 'Vă rugăm să introduceți informațiile de mai jos.';
+$lang['register_user_fname_label']                       = 'Prenume:';
+$lang['register_user_lname_label']                       = 'Nume:';
+$lang['register_user_company_label']                     = 'Companie:';
+$lang['register_user_email_label']                       = 'Email:';
+$lang['register_user_phone_label']                       = 'Telefon:';
+$lang['register_user_password_label']                    = 'Parolă:';
+$lang['register_user_password_confirm_label']            = 'Confirmă parola:';
+$lang['register_user_submit_btn']                        = 'Înregistrează-te';
+$lang['register_user_validation_fname_label']            = 'Prenume';
+$lang['register_user_validation_lname_label']            = 'Nume';
+$lang['register_user_validation_email_label']            = 'Adresă email';
+$lang['register_user_validation_phone_label']            = 'Telefon';
+$lang['register_user_validation_company_label']          = 'Companie';
+$lang['register_user_validation_password_label']         = 'Parolă';
+$lang['register_user_validation_password_confirm_label'] = 'Confirmarea parolei';
+
 // Edit User
 $lang['edit_user_heading']                           = 'Editează utilizatorul';
 $lang['edit_user_subheading']                        = 'Vă rugăm să introduceți informațiile utilizatorului de mai jos.';

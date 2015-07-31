@@ -71,6 +71,25 @@ $lang['create_user_validation_company_label']          = 'Company Name';
 $lang['create_user_validation_password_label']         = 'Password';
 $lang['create_user_validation_password_confirm_label'] = 'Password Confirmation';
 
+// Register User
+$lang['register_user_heading']                           = 'Register';
+$lang['register_user_subheading']                        = 'Please enter the user\'s information below.';
+$lang['register_user_fname_label']                       = 'First Name:';
+$lang['register_user_lname_label']                       = 'Last Name:';
+$lang['register_user_company_label']                     = 'Company Name:';
+$lang['register_user_email_label']                       = 'Email:';
+$lang['register_user_phone_label']                       = 'Phone:';
+$lang['register_user_password_label']                    = 'Password:';
+$lang['register_user_password_confirm_label']            = 'Confirm Password:';
+$lang['register_user_submit_btn']                        = 'Register';
+$lang['register_user_validation_fname_label']            = 'First Name';
+$lang['register_user_validation_lname_label']            = 'Last Name';
+$lang['register_user_validation_email_label']            = 'Email Address';
+$lang['register_user_validation_phone_label']            = 'Phone';
+$lang['register_user_validation_company_label']          = 'Company Name';
+$lang['register_user_validation_password_label']         = 'Password';
+$lang['register_user_validation_password_confirm_label'] = 'Password Confirmation';
+
 // Edit User
 $lang['edit_user_heading']                           = 'Edit User';
 $lang['edit_user_subheading']                        = 'Please enter the user\'s information below.';
